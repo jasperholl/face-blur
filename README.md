@@ -41,4 +41,3 @@ This project is provided as-is. Check Ultralytics' license terms if you use thei
 ---
 
 **Author:** Jasper Holl  
-**Company:** Sweco NL
