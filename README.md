@@ -1,7 +1,7 @@
 
 # Face Blur Tool
 
-This tool automatically detects and blurs faces in images using a YOLOv8 face detection model.
+This tool automatically detects and blurs faces in images using a YOLOv8 face detection model. It works best for faces in the background from different angles (front, side). The tool doesn't work on portrait / foreground faces. 
 
 ## Features
 
